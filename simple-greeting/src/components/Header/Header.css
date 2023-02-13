@@ -1,0 +1,21 @@
+.header {
+    background-color: lightslategray;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    position: fixed;
+    top: 0;
+    left: 100%;
+    transform: translateX(-100%); 
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 20px;
+}

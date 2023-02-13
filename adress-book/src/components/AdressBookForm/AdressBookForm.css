@@ -1,0 +1,9 @@
+.adress-book-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    border: 2px solid black;
+    padding: 20px;
+}

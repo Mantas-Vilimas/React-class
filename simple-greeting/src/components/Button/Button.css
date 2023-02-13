@@ -1,0 +1,12 @@
+.button {
+    min-height: 60px;
+    min-width: 150px ;
+    background-color: lightslategray;
+    border: none;
+    border-radius: 10px;
+}
+
+.button:hover {
+    background-color: grey;
+    color: white;
+}

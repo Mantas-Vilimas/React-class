@@ -1,0 +1,7 @@
+.adress-list-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+    border: 2px solid black;
+    padding: 20px;
+}
