@@ -1,0 +1,15 @@
+.topic {
+    margin-top: 20px;
+    padding: 20px;
+
+}
+.topic-title {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.topic-description {
+    font-size: 14px;
+    text-align: justify;
+}

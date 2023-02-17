@@ -1,0 +1,16 @@
+.home-page {
+    min-height: 80vh;
+}
+
+
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
